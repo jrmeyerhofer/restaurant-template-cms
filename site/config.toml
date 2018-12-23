@@ -13,4 +13,9 @@ title = "Tasty Licks"
 [[menu.main]]
     name = "Contact"
     url  = "/contact"
+    weight = 1
+    
+[[menu.main]]
+    name = "Food"
+    url  = "/food"
     weight = 2
